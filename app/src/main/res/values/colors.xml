@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="primary">#533393</color>
+    <color name="color_accent">#B39DDB</color>
+    <color name="primary_dark">#311B92</color>
+    <color name="text_color_primary">#FFFFFF</color>
+    <color name="translucenter_dark">#bf000000</color>
+    <color name="tab_normal_color">#CDA5F2</color>
+    <!--<color name="heading_text_color">#400082</color>-->
+    <color name="red_color">	#FF0000</color>
+    <!--<color name="green_color">#008000</color>-->
+    <color name="text_color_one">#4527A0</color>
+    <color name="login_text_hint_color">#CCd3d3d3</color>
+    <!--<color name="splash_screen_bg_color">#673AB7</color>-->
+    <color name="my_stuff_screen_bg">#f9f9f9</color>
+    <!--<color name="separator_view_bg_color">#A9A9A9</color>-->
+    <color name="pinned_header_text">#340c5a</color>
+    <color name="dark_orange">#FFA500</color>
+    <color name="separator_view_bg_color_one">#d3d3d3</color>
+    <integer-array name="contacts_text_background_colors">
+        <item>0xFF9C27B0</item>
+        <item>0xFFFF5722</item>
+        <item>0xFF3F51B5</item>
+        <item>0xFFDB4437</item>
+        <item>0xFFEF6C00</item>
+        <item>0xFF689F38</item>
+        <item>0xFF757575</item>
+        <item>0xFF0F9D58</item>
+        <item>0xFF3F51B5</item>
+        <item>0xFF0097A7</item>
+    </integer-array>
+    <color name="topic_posted_on_bg_color">#FFA500</color>
+    <color name="drawer_header_bg_color">#CC938d80</color>
+    <color name="comments_space_bg_color">#26D3D3D3</color>
+
+    <color name="golden_stars">#f07508</color>
+    <color name="light_black">#222222</color>
+    <color name="mat_gray">#ff212121</color>
+    <color name="dark_gray">#666666</color>
+    <color name="gray">#AAAAAA</color>
+    <color name="seperator_color">#B6B6B6</color>
+    <color name="light_green">#20C13C</color>
+    <color name="light_orange">#FF9600</color>
+    <color name="light_red">#FE3824</color>
+    <color name="white">#FFFFFF</color>
+    <!--<color name="yellow">#FFFF00</color>-->#2696f6
+    <color name="turquoise">#019590</color>
+    <color name="link_blue">#2696f6</color>
+    <color name="special_red">#d9534f</color>
+    <color name="primary_two">#673aa7</color>
+    <color name="fab_bg_color">#533393</color>
+    <color name="switch_inactive_color">#a90606</color>
+    <color name="switch_active_color">#41aa36</color>
+    <color name="my_stuff_title_color">#533393</color>
+    <color name="recycler_bg">#eeeeee</color>
+    <color name="light_grey">#727272</color>
+    <color name="black">#000000</color>
+    <color name="black_dark">#212121</color>
+    <color name="disable_text">#717171</color>
+</resources>

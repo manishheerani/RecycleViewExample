@@ -1,0 +1,40 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="userName_textSize">14sp</dimen>
+    <dimen name="userName_layout_marginLeft">16dp</dimen>
+
+    <dimen name="userEmail_textSize">14sp</dimen>
+    <dimen name="userEmail_layout_marginLeft">16dp</dimen>
+
+
+    <dimen name="userPhoto_layout_width">64dp</dimen>
+    <dimen name="userPhotoTwo_layout_marginRight">16dp</dimen>
+    <dimen name="userPhoto_layout_height">64dp</dimen>
+    <dimen name="userPhoto_layout_marginTop">16dp</dimen>
+    <dimen name="userPhoto_layout_marginLeft">16dp</dimen>
+    <dimen name="userData_layout_marginBottom">8dp</dimen>
+    <dimen name="list_item__contact_imageview_size">55dp</dimen>
+
+    <dimen name="apnacomplex_title_textsize">30sp</dimen>
+
+
+    <dimen name="page_header_text_size">20sp</dimen>
+    <dimen name="section_header_text_size">14sp</dimen>
+    <dimen name="primary_info_text_size">16sp</dimen>
+    <dimen name="secondary_info_text_size">14sp</dimen>
+    <dimen name="tertiary_text_size">12sp</dimen>
+    <dimen name="header_text_size">24sp</dimen>
+    <dimen name="secondary_info_listview_text_size">14sp</dimen>
+    <dimen name="error_text_size">12sp</dimen>
+    <dimen name="splash_screen_txt_size">25sp</dimen>
+    <integer name="gal_num_of_cols">4</integer>
+    <dimen name="image_width">150dp</dimen>
+    <dimen name="image_height">150dp</dimen>
+    <dimen name="horizontal_spacing">16dp</dimen>
+    <dimen name="vertical_spacing">5dp</dimen>
+
+    <dimen name="myunit_section_header_text_size">18sp</dimen>
+    <dimen name="myunit_header_text_size">16sp</dimen>
+    <dimen name="myunit_details_text_size">15sp</dimen>
+
+</resources>
