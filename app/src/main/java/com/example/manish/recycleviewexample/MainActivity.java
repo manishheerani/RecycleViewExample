@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.content_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-        toolbar.setTitle("Presidents");
+        toolbar.setTitle("Presidents List");
         presidents_list= DataSource.getPresidentData();
         recyclerView = (RecyclerView)findViewById(R.id.president_list_view);
         recyclerView.setHasFixedSize(true);

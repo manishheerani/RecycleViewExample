@@ -44,7 +44,7 @@ public class DataSource {
 
         ArrayList<President> presidentArrayList = new ArrayList<>();
 
-        for(int i=number_of_president.length;i>0;i--)
+        for(int i=number_of_president.length-1;i>0;i--)
         {
             President temp_president= new President(president_names[i],duration[i],wiki_links[i],images[i],number_of_president[i]);
             presidentArrayList.add(temp_president);
